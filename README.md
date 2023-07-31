@@ -4,10 +4,10 @@ Uma página simples de apresentação de um restaurante, utilizando basicamente 
 
 Imagens:
 
-[!Image-1](./images/Main%20Page.png)
+![Image-1](./images/Main%20Page.png)
 
-[!Image-2](./images/Second%20Page.png)
+![Image-2](./images/Second%20Page.png)
 
-[!Image-3](./images/Third%20Page.png)
+![Image-3](./images/Third%20Page.png)
 
-[!Image-4](./images/Fourth%20Page.png)
+![Image-4](./images/Fourth%20Page.png)
