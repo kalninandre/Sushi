@@ -1,7 +1,6 @@
 {
-  "name": "csswithhtml-sushiproject",
-  "private": true,
-  "version": "0.0.0",
+  "name": "sushi-project",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
